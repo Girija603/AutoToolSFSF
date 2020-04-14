@@ -1,10 +1,13 @@
 package com.botsftool.Test;
 
+import com.botsftool.beans.Utility;
+
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		Utility util=new Utility();
+		util.m1();
 	}
 
 }
